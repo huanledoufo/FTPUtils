@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
             case R.id.eBook:
                 startActivity(intent);
+                
                 break;
             case R.id.zhuDi:
                 startActivity(intent);
